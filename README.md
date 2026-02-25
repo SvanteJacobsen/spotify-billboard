@@ -1,6 +1,3 @@
-# spotify-billboard-analysis
-This article examines trends in Billboard charted songs from 2000 to 2025, using Spotify and Billboard top 100 data, using Python, it explores how these changes reflect shifts in music and society as a whole. Have we really become a quick fix society? The music industry tells us YES.
-
 # The quick fix - Music evolution mirroring society's evolution
 We always hear that in today's world people have shorter attention spans, they crave quick fixes and the impressions and input is constant.
 Music, as we know, is a mirror of society, and if that is the case, the music that is being produced should support that statement.
